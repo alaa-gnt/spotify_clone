@@ -12,10 +12,6 @@ class HomePage extends StatelessWidget {
           children: [
             Image.asset('Images/spotify.png'), 
             Text("Millions of Songs") ,
-            ElevatedButton(onPressed: onPressed, child: child),
-            ElevatedButton(onPressed: onPressed, child: child),
-            ElevatedButton(onPressed: onPressed, child: child),
-            ElevatedButton(onPressed: onPressed, child: child)
           ],
         ),
       ),
